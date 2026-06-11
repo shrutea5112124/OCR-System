@@ -1,0 +1,30 @@
+# Ignore virtual environment
+ocr_env/
+ocr_env311/
+paddle_env/
+easyocr_env310/
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# Ignore image outputs and debug folders
+*.jpg
+*.png
+*.jpeg
+debug_lines/
+cropped_lines/
+outputs/
+
+# Ignore model weights and checkpoints
+*.pth
+*.onnx
+weights/
+checkpoints/
+
+# Ignore temporary and OS-specific files
+*.zip
+*.db
+.DS_Store
+
