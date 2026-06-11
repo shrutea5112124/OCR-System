@@ -308,6 +308,6 @@ AI/ML Enthusiast | Computer Vision | OCR Systems
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project useful, consider giving it a star on GitHub!
