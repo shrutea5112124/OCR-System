@@ -1,10 +1,10 @@
-# 🌍 Multilingual OCR System
+#  Multilingual OCR System
 
 A deep learning-based Optical Character Recognition (OCR) system capable of detecting, recognizing, and classifying multilingual text from images. This project combines Computer Vision, Deep Learning, and Natural Language Processing techniques to build an end-to-end OCR pipeline.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to extract text from images containing multiple languages and provide accurate recognition through image preprocessing, text detection, text recognition, language classification, and post-processing techniques.
 
@@ -18,7 +18,7 @@ The system is designed to handle:
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Image Preprocessing
 - Image resizing
@@ -57,7 +57,7 @@ The system is designed to handle:
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ```text
 Input Image
@@ -86,7 +86,7 @@ Final Output
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 OCR-System/
@@ -119,7 +119,7 @@ OCR-System/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 This project uses the **ICDAR MLT 2019 Dataset** for multilingual text recognition and language classification.
 
@@ -148,7 +148,7 @@ dataset/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 ### Programming Language
 - Python
@@ -174,7 +174,7 @@ dataset/
 
 ---
 
-## ⚙ Installation
+## Installation
 
 ### Clone Repository
 
@@ -211,7 +211,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Training
+##  Training
 
 Train the language classification model:
 
@@ -228,7 +228,7 @@ The training pipeline:
 
 ---
 
-## 🔍 Running OCR
+##  Running OCR
 
 ```bash
 python main.py
@@ -246,7 +246,7 @@ OCR Pipeline:
 
 ---
 
-## 📈 Example Output
+##  Example Output
 
 ### Input
 
@@ -270,7 +270,7 @@ Hello World
 
 ---
 
-## 🎯 Applications
+##  Applications
 
 - Document Digitization
 - Historical Archive Preservation
@@ -282,7 +282,7 @@ Hello World
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Handwritten Text Recognition
 - Transformer-Based OCR Models
@@ -294,13 +294,13 @@ Hello World
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shruti**
 
