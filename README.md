@@ -302,12 +302,15 @@ This project is licensed under the MIT License.
 
 ##  Author
 
-**Shruti**
+This project was collaboratively developed by:
 
-AI/ML Enthusiast | Computer Vision | OCR Systems
+- **Jay Vyas**
+- **Aastha**
+- **Ankita**
+- **Kapil Bansal**
+- **Shruti Turare**
 
 ---
-
 ## Support
 
 If you found this project useful, consider giving it a star on GitHub!
